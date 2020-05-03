@@ -41,7 +41,7 @@ public class YoutubeService {
         }).setApplicationName("youtube-cmdline-search-sample").build();
         search = youtube.search().list("id,snippet");
         video_detail = youtube.videos().list("contentDetails");
-        String apiKey = "your api key here";
+        String apiKey = "AIzaSyA-_WBbCPC25UegJ3nEzzpeSjGHjdB3hCs";
         search.setKey(apiKey);
         video_detail.setKey(apiKey);
         search.setType("video");
