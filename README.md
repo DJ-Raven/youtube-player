@@ -28,3 +28,5 @@
 ### how to shared
 1. click on menu ... in video box at the top right and click share to server
 2. client and server will see your video has shared
+### screenshot
+![2021-06-21_203145](https://user-images.githubusercontent.com/58245926/122770586-cc256c80-d2cf-11eb-90bc-9a73f30f44f7.png)
